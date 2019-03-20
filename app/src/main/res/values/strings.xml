@@ -5,6 +5,6 @@
     <string name="gas">Gasoline</string>
     <string name="et">Ethanol</string>
     <string name="gasDesc">Gasoline being thrown away</string>
-    <string name="titleText">Recommended</string>
+    <string name="titleText" ><font size="50">Recommended</font></string>
     <string name="etDesc">A ethanol flask</string>
 </resources>
