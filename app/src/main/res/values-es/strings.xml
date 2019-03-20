@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelTip</string>
+    <string name="gasText">Precio de la gasolina por litro</string>
+    <string name="etText">" Precio del etanol por litro."</string>
+    <string name="gas">Gasolina</string>
+    <string name="et">Etanol</string>
+    <string name="gasDesc">La gasolina se tira</string>
+    <string name="etDesc">" Un matraz de etanol"</string>
+    <string name="titleText">" Recomendado"</string>
+</resources>

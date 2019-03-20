@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FuelTip</string>
+    <string name="gasText">Gasoline price per liter</string>
+    <string name="etText">Ethanol price per liter</string>
+    <string name="gas">Gasoline</string>
+    <string name="et">Ethanol</string>
+    <string name="gasDesc">Gasoline being thrown away</string>
+    <string name="titleText">Recommended</string>
+    <string name="etDesc">A ethanol flask</string>
+</resources>

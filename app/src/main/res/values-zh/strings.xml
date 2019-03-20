@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelTip</string>
+    <string name="etDesc">" 乙醇瓶"</string>
+    <string name="gasText">" 每升汽油价格"</string>
+    <string name="etText">" 每升乙醇价格"</string>
+    <string name="gas">" 汽油"</string>
+    <string name="et">" 乙醇"</string>
+    <string name="gasDesc">" 汽油被扔掉了"</string>
+    <string name="titleText">" 推荐的"</string>
+</resources>
